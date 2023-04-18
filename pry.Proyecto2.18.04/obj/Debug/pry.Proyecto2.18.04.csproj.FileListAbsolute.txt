@@ -1,0 +1,9 @@
+D:\Escritorio\pry.Proyecto2.18.04\bin\Debug\pry.Proyecto2.18.04.exe.config
+D:\Escritorio\pry.Proyecto2.18.04\bin\Debug\pry.Proyecto2.18.04.exe
+D:\Escritorio\pry.Proyecto2.18.04\bin\Debug\pry.Proyecto2.18.04.pdb
+D:\Escritorio\pry.Proyecto2.18.04\obj\Debug\pry.Proyecto2._18._04.Form1.resources
+D:\Escritorio\pry.Proyecto2.18.04\obj\Debug\pry.Proyecto2._18._04.Properties.Resources.resources
+D:\Escritorio\pry.Proyecto2.18.04\obj\Debug\pry.Proyecto2.18.04.csproj.GenerateResource.cache
+D:\Escritorio\pry.Proyecto2.18.04\obj\Debug\pry.Proyecto2.18.04.csproj.CoreCompileInputs.cache
+D:\Escritorio\pry.Proyecto2.18.04\obj\Debug\pry.Proyecto2.18.04.exe
+D:\Escritorio\pry.Proyecto2.18.04\obj\Debug\pry.Proyecto2.18.04.pdb
